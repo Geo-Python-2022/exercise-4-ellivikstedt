@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/cAaE3h9Z)
 # Exercise 4: Functions (10 points)
 
 The exercise for this week is meant to help you to understand how to create and use functions in Python.
